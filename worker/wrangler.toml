@@ -15,7 +15,7 @@
 # thousands of independent users on the free tier.
 # ─────────────────────────────────────────────────────────────────────────────
 
-name = "iptvbridge"
+name = "nuvioiptvbridge"
 main = "src/index.ts"
 compatibility_date = "2024-09-23"
 
